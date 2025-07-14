@@ -50,7 +50,7 @@ class AutoNaukriDotNetBot
                 }
             }
 
-            //dfghj
+          
 
             Console.WriteLine("🎉 Job auto-apply complete!");
         }
